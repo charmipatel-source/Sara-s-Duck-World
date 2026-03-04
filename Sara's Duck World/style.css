@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(13, 34, 49);
+    color:rgb(248, 228, 186);
+    font-family:cursive;
+    
+}
+
+a:hover {
+    color:rgb(252, 209, 216);
+}
