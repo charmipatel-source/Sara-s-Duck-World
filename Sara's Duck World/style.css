@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(13, 34, 49);
+    color:rgb(248, 228, 186);
+    font-family:unset;
+    text-align: center;
+}
+
+b:hover {
+    color:rgb(252, 209, 216);
+}
+
+h1{
+    font-size:45px;
+}
+
+h2{
+    text-align:left;
+}
+h3 {
+    font-family: "Delius", cursive;
+    color: rgb(241, 195, 218);
+}
+
+p {
+    color: rgb(241, 195, 218);
+    font-family: "Delius", cursive;
+}
+
+.title-row{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-align: center;
+}
+
+a{
+    color:rgb(142, 198, 223);
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color:bisque;
+    text-decoration: underline;
+}
